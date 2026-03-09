@@ -1,5 +1,3 @@
-![github-header-image](https://user-images.githubusercontent.com/92269328/229360175-89ba9dda-1b28-48f6-91d8-c8c836028e74.png)
-
 - 📫 How to reach me **dahami.gehad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
